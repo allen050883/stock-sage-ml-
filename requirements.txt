@@ -1,0 +1,10 @@
+yfinance
+pandas
+numpy
+ta
+tensorflow
+xgboost
+scikit-learn
+boto3
+sagemaker
+matplotlib

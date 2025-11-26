@@ -1,0 +1,17 @@
+# config.yaml
+# This file can hold configuration variables for the project
+
+# Example:
+# data:
+#   start_date: '2020-01-01'
+#   end_date: '2024-11-20'
+#   tickers:
+#     - '2330.TW'
+#     - '2454.TW'
+#     - '2317.TW'
+
+# model:
+#   type: 'LSTM' # or 'XGBoost'
+#   sequence_length: 60
+#   epochs: 100
+#   batch_size: 32
